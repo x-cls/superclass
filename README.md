@@ -1,7 +1,7 @@
 <div align="center">
 <h1>SuperClass for Vision-Language Pre-Training [NeurIPS 2024]</h1>
 
-[**Zilong Huang**](http://speedinghzl.github.io/) · [**Qinghao Ye**](https://scholar.google.com/citations?user=ZYOhaGwAAAAJ&hl=zh-CN)  ·  [**Bingyi Kang**](https://bingykang.github.io/) ·  [**Jiashi Feng**](https://sites.google.com/site/jshfeng/) · [**Haoqi Fan**](https://hszhao.github.io/)
+[**Zilong Huang**](http://speedinghzl.github.io/) · [**Qinghao Ye**](https://scholar.google.com/citations?user=ZYOhaGwAAAAJ&hl=zh-CN)  ·  [**Bingyi Kang**](https://bingykang.github.io/) ·  [**Jiashi Feng**](https://sites.google.com/site/jshfeng/) · [**Haoqi Fan**](https://scholar.google.com/citations?user=76B8lrgAAAAJ&hl=en)
 
 Bytedance Research 
 
