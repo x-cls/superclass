@@ -1,5 +1,6 @@
 <div align="center">
-<h1>SuperClass for Vision-Language Pre-Training [NeurIPS 2024]</h1>
+<h1>SuperClass</h1>
+<h2>[NeurIPS 2024] Official implementation of "[Classification Done Right for Vision-Language Pre-Training]()"</h2>
 
 [**Zilong Huang**](http://speedinghzl.github.io/) · [**Qinghao Ye**](https://scholar.google.com/citations?user=ZYOhaGwAAAAJ&hl=zh-CN)  ·  [**Bingyi Kang**](https://bingykang.github.io/) ·  [**Jiashi Feng**](https://sites.google.com/site/jshfeng/) · [**Haoqi Fan**](https://scholar.google.com/citations?user=76B8lrgAAAAJ&hl=en)
 
