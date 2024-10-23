@@ -1,6 +1,5 @@
 <div align="center">
-<h1>SuperClass</h1>
-<h2>[NeurIPS 2024] Official implementation of "[Classification Done Right for Vision-Language Pre-Training]()"</h2>
+<h2>SuperClass: Classification Done Right for Vision-Language Pre-Training</h2>
 
 [**Zilong Huang**](http://speedinghzl.github.io/) · [**Qinghao Ye**](https://scholar.google.com/citations?user=ZYOhaGwAAAAJ&hl=zh-CN)  ·  [**Bingyi Kang**](https://bingykang.github.io/) ·  [**Jiashi Feng**](https://sites.google.com/site/jshfeng/) · [**Haoqi Fan**](https://scholar.google.com/citations?user=76B8lrgAAAAJ&hl=en)
 
@@ -19,6 +18,7 @@ This work presents SuperClass, a super simple classification method that perform
 ## News
 
 - **2024-11-02:** Paper & code are all released.
+- **2024-10-02:** SuperClass is accepted by NeurIPS 2024.
 
 
 ## Usage
