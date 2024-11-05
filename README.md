@@ -13,7 +13,7 @@ Bytedance Research
 This work presents SuperClass, a super simple classification method that performs vision-language pre-training. Our method does **not require a text encoder** to be pre-trained on image-text data. Instead, it utilizes **tokenized raw text** as **supervised classification labels**, without the need for additional text filtering or selection.
 
 <div align="center">
-  <img src="assets/teaser.png" alt="teaser" height="400">
+  <img src="assets/teaser.png" alt="teaser" style="height: 350px; width: auto;">
 </div>
 
 
