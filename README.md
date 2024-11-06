@@ -33,7 +33,7 @@ cd superclass
 pip install -r requirements.txt
 ```
 
-Download the datasets [Datacomp-1B](https://github.com/mlfoundations/datacomp) and [ImageNet-1K](https://www.image-net.org/download.php).
+Download the datasets [Datacomp-1B](https://github.com/mlfoundations/datacomp) and [ImageNet-1K](https://www.image-net.org/download.php). You can also use [other image-text pair datasets](https://github.com/rom1504/img2dataset/tree/main?tab=readme-ov-file#examples) for training.
 
 Modify the **DATA_PATH** and **VAL_DATA_PATH** in training script **train.sh** and **train_combo.sh** to your local paths to Datacomp-1B and ImageNet-1K.
 
