@@ -5,7 +5,7 @@
 
 Bytedance Research 
 
-<a href=""><img src='https://img.shields.io/badge/arXiv-SuperClass-red' alt='Paper PDF'></a>
+<a href="https://arxiv.org/abs/2411.03313"><img src='https://img.shields.io/badge/arXiv-SuperClass-red' alt='Paper PDF'></a>
 
 
 </div>
