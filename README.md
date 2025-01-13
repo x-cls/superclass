@@ -62,6 +62,8 @@ For example:
 bash train.sh configs/cls_schedule/cls_vit_b16_s1.28B_bs16k.yaml opencls
 ```
 
+Please note that the default **precision** during training is set to **amp_bfloat16**. If your GPU (e.g., V100) does not support bf16, please change it to **fp16** or **amp**.
+
 
 
 
