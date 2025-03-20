@@ -3,7 +3,7 @@
 
 [**Zilong Huang**](http://speedinghzl.github.io/) · [**Qinghao Ye**](https://scholar.google.com/citations?user=ZYOhaGwAAAAJ&hl=zh-CN)  ·  [**Bingyi Kang**](https://bingykang.github.io/) ·  [**Jiashi Feng**](https://sites.google.com/site/jshfeng/) · [**Haoqi Fan**](https://scholar.google.com/citations?user=76B8lrgAAAAJ&hl=en)
 
-Bytedance Research 
+Bytedance Seed 
 
 <a href="https://arxiv.org/abs/2411.03313"><img src='https://img.shields.io/badge/arXiv-SuperClass-red' alt='Paper PDF'></a>
 
